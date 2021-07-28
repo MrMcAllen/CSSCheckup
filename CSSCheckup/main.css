@@ -1,0 +1,19 @@
+background {
+ background-color: black;
+}
+/* px - pixels, 5em - 5* the size of m, % percentages, vh - view height */
+.puppies {
+background-color: brown;
+width: 25%;
+height:
+}
+
+#breeds {
+background-color: red;
+padding-top: 50%;
+padding-left: 30%;
+font-size: xx-large;
+border-top: burlywood;
+
+}
+
